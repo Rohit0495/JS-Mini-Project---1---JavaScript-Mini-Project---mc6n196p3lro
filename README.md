@@ -1,1 +1,1 @@
-# html-css-js-project-boilerplate
+#js-project-boilerplate 
